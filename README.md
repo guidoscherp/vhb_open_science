@@ -66,12 +66,18 @@ Somewhat dated course with self-study elements.
 
 - [QuantEcon Lectures](https://quantecon.org/lectures/): The QuantEcon Lectures provide a collection of open-source learning materials on quantitative and computational economics, combining economic theory and modeling with programming, data analysis, and numerical methods using Python, Julia, and JAX
 
+
 ## Events about Open Science & Reproducbility
+
 - [Institute for Replication // Replication Games](https://www.i4replication.org/games): Games for different disciplines. 
 
+
 ## Summer Schools
+
 - [LMU Open Science Summer School 2026](https://www.osc.lmu.de/events/events/2026-09-07-lmu-open-science-summer-school.html): The LMU Open Science Summer School is a hybrid training programme for early-career researchers and research support staff, combining lectures and hands-on workshops on reproducible workflows, preregistration, FAIR data and code, as well as a dedicated track on teaching and promoting Open Science.
+
 - [University Innsbruck Summer School Open Science 2026](https://www.uibk.ac.at/en/weiterbildung/open-science/): The University of Innsbruck Open Science Summer School is a four-day interdisciplinary training programme on reproducible and transparent research practices, covering preregistration, statistical power, research integrity, and common problems affecting the credibility of scientific results
+
 - [King's Open Research Summer School 2026](https://www.kcl.ac.uk/events/kings-open-research-summer-school-2026): week-long interdisciplinary programme of talks, discussions, and practical workshops on open and reproducible research, covering topics such as research integrity, preregistration, data sharing, reproducible workflows, and transparent reporting
 
 
@@ -85,6 +91,33 @@ Somewhat dated course with self-study elements.
 - [Zhang, Liwei; Ma, Liang; Does open data boost journal impact: evidence from Chinese economics; 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC7882418/): Open Data significantly increases the citations of journal articles in economics and there is a spillover effect on previously published articles when journals introduce a mandatory Open Data policy. The authors suspect the increased academic reputation of the journal as the reason. 
 
 - [Zhang, Liwei; Ma, Liang; Is open science a double-edged sword?: data sharing and the changing citation pattern of Chinese economics articles; 2023](https://link.springer.com/article/10.1007/s11192-023-04684-8): Having an Open Data policy quickly increased the number of citations of Chinese economics articles. Each article on average received more citations in the first four years after publication respectively. But the citation benefit rapidly decreased over time, and even became negative in the fifth year after publication.
+
+[Altemeier, F., Jacob, J., Murcia Serra, J. (2026): Data Literacy in Focus: 
+Using the Learning Objectives Matrix to Teach Research Data Management. 
+In: Kurbanoğlu, S., et al. Information Literacy in an AI-Driven World. 
+ECIL 2025. Communications in Computer and Information Science: Vol 2864. 
+Springer, Cham](https://doi.org/https://doi.org/10.1007/978-3-032-17272-3_24)
+
+Aßenmacher, M., Stephan, A., Weissweiler, L., Çano, E., Ziegler, I., 
+Härttrich, M., Bischl, B., Roth, B., Heumann, C., & Schütze, H. (2024): 
+Collaborative Development of Modular Open Source Educational Resources for 
+Natural Language Processing. In S. Al-azzawi, L. Biester, G. Kovács, 
+A. Marasović, L. Mathur, M. Mieskes, & L. Weissweiler (Eds.), Proceedings 
+of the Sixth Workshop on Teaching NLP (pp. 43–53). 
+Association for Computational Linguistics.
+
+[BERD@NFDI (2026): BERD OER Finder](https://berd-nfdi.github.io/BERD_OER/)
+ 
+[BERD@NFDI (2025): Make Your Research Reproducible: Course Booklet. GitHub](https://github.com/BERD-NFDI/BERD-reproducible-research-course)
+
+[Bergh, Sharp, Aguinis & Li: "Is there a credibility crisis in strategic management research?", Strategic Organization, 15(3), 423–436, 2017.](https://journals.sagepub.com/doi/10.1177/1476127017701076): Attempted reproduction of 88 Strategic Management Journal articles using only the data reported in the papers themselves; finds most studies lack sufficient disclosure and that a substantial share of previously significant results no longer hold up.
+
+[Biernacka, K., Haase, C., Löhde, B., Murcia Serra, J., Neumann, J., 
+Scherreiks, P., Schneemann, C., Schranzhofer, H., Senft, M., 
+Voigt, A., & Wiljes, C. (2025): Metadatenschema für 
+Schulungsmaterialien zum Thema Forschungsdatenmanagement. Zenodo](
+  https://doi.org/10.5281/zenodo.14800610
+)
 
 [Brodeur et al. (2026): Reproducibility and robustness of economics and 
 political science research, Nature](https://doi.org/10.1038/s41586-026-10251-x):
@@ -106,10 +139,40 @@ the opinions of international accounting research community. Also features a
 [replication package](https://github.com/joachim-gassen/osacc) and a bare-bones
 [survey dashboard](https://jgassen.shinyapps.io/osacc). 
 
+[Herklotz, M., & Oberländer, L. (2022): iVA: Ein interaktiver Virtueller  
+Assistent von BERD@BW zur Aufbereitung von Rechtsfragen im Bereich Open Science. 
+E-Science-Tage 2021: Share Your Research Data, 306–313](
+  https://doi.org/http://dx.doi.org/10.11588/heibooks.979.c13742
+) 
+ 
+[Maedche, A., Elshan, E., Höhle, H., Lehrer, C., Recker, J., Sunyaev, A., 
+Sturm, B., & Werth, O. (2024): Open Science: Towards Greater Transparency 
+and Openness in Science. Business & Information Systems Engineering, 66(4), 
+517–532](
+  https://doi.org/10.1007/s12599-024-00858-7
+)
+ 
 [Miske et al. (2026): Investigating the reproducibility of the social and 
 behavioural sciences, Nature](https://doi.org/10.1038/s41586-026-10203-5):
 Reproducibility assessment across 62 journals. Document that data and code 
 availability is scarce but if both are available, about three thirds of studies
 are reproducible.
 
-[Bergh, Sharp, Aguinis & Li: "Is there a credibility crisis in strategic management research?", Strategic Organization, 15(3), 423–436, 2017.](https://journals.sagepub.com/doi/10.1177/1476127017701076): Attempted reproduction of 88 Strategic Management Journal articles using only the data reported in the papers themselves; finds most studies lack sufficient disclosure and that a substantial share of previously significant results no longer hold up.
+[Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., 
+Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., 
+Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., 
+Schranzhofer, H., Slowig, B., … Zollitsch, L (2025): 
+Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM). Zenodo.](
+  https://doi.org/10.5281/zenodo.15025246
+)
+
+[Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., 
+Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., 
+Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., 
+Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025): 
+Learning Objectives Matrix on the Topic of Research Data Management (RDM). 
+Zenodo](https://doi.org/10.5281/zenodo.15846806)
+ 
+[Stoilova, V., Breß, C., Brunner, P., Deschler, K., & Reiser, N. (2025): 
+FAIR-Prinzipien und Datenschutz | Factsheet 1 - Einwilligung: FAIR und 
+datenschutzkonform. Zenodo](https://doi.org/10.5281/zenodo.15786777)

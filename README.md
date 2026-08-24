@@ -34,6 +34,8 @@ VHB ProDok Course in the Area of Accounting that features open science methods.
 - [Statistical Programming and Open Science Methods Course](https://github.com/trr266/sposm):
 Somewhat dated course with self-study elements.
 
+- [Template for an Accounting or Finance Research Project](https://eweisbrod.github.io/example-project/): Openly available teaching materials providing practical examples and templates for structuring and conducting reproducible empirical research projects in accounting and finance using R, Python, Stata, and Git/GitHub.
+
 - [Open Economics Guide](https://openeconomics.zbw.eu/en/) (by ZBW), more than education-related, target group: economics and business studies
     - Knowledge Bases [Open Science](https://openeconomics.zbw.eu/en/knowledgebase/introduction-to-open-science/), [Open Access](https://openeconomics.zbw.eu/en/knowledgebase/introduction-to-open-access/), [Open Data](https://openeconomics.zbw.eu/en/knowledgebase/introduction-to-open-data/), [Open Code](https://openeconomics.zbw.eu/en/knowledgebase/introduction-to-open-code/), [OER](https://openeconomics.zbw.eu/en/knowledgebase/introduction-to-open-educational-resources/)
     - [Glossary](https://openeconomics.zbw.eu/en/open-science-glossary/)
@@ -52,6 +54,7 @@ Somewhat dated course with self-study elements.
 - [Code and Data for the Social Sciences: A Practitioner's Guide](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf): The PDF is a practical guide to reproducible work with code and data in empirical social science, covering best practices for automation, version control, data and directory organization, documentation, and project management.
 
 - [LMU Open Science Training](https://www.osc.lmu.de/training/): The LMU Open Science Center provides a comprehensive collection of training resources on open and reproducible research, including self-learning materials, a research-cycle handbook, and an educator toolkit with ready-to-use teaching materials.
+    - [Open Science for Business Research](https://www.som.lmu.de/marketing/en/teaching/open-science-for-business-research/): course dedicated for business resarch by Susanne Adler, no materials found. 
 
 - [TU Delft course “Open Science: Sharing Your Research with the World”](): The course  introduces with videos the key principles and practices of Open Science, covering research data management, data sharing, Open Access publishing, research visibility, and the practical application of Open Science in everyday research.
 
@@ -62,7 +65,6 @@ Somewhat dated course with self-study elements.
 - [World bank course "Open Data for Data Users"](https://www.worldbank.org/en/olc/course/47394): The self-paced course Open Data for Data Users teaches how to find, evaluate, clean, analyze, visualize, cite, and communicate Open Data effectively and responsibly.
 
 - [QuantEcon Lectures](https://quantecon.org/lectures/): The QuantEcon Lectures provide a collection of open-source learning materials on quantitative and computational economics, combining economic theory and modeling with programming, data analysis, and numerical methods using Python, Julia, and JAX
-
 
 ## Events about Open Science & Reproducbility
 - [Institute for Replication // Replication Games](https://www.i4replication.org/games): Games for different disciplines. 
